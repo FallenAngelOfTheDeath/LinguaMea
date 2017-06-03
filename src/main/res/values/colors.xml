@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="learned_color_main">#E0E0E0</color>
+    <color name="text_color_main">#000000</color>
+    <color name="background_color">#ECEFF1</color>
+    <color name="learned_color_main_old">#fce6e6e6</color>
+    <color name="white">#ffffff</color>
+    <color name="toolbarIcons">#ffffff</color>
+    <color name="selected_item_color">#F06292</color>
+    <color name="translation_color">#797979</color>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Custom dictionary preference">
+        <SwitchPreferenceCompat
+            android:key="search_by_translation"
+            android:summary="Search in a custom dictionary by translation"
+            android:title="Search by translation" />
+        <SwitchPreferenceCompat
+            android:key="sorting_by_translation"
+            android:summary="Sorting in a custom dictionary  by translation"
+            android:title="Sorting by translation" />
+    </PreferenceCategory>
+</PreferenceScreen>

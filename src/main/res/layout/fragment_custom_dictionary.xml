@@ -1,0 +1,32 @@
+
+<android.support.design.widget.CoordinatorLayout
+    android:id="@+id/main_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ninebit.linguamea.fragment.dictionaries.OIDictionaryFragment">
+        <FrameLayout
+            android:id="@+id/container_custom_dict"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                                <android.support.v7.widget.RecyclerView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/recycler_view_custom_dictionary"/>
+
+                        </LinearLayout>
+        <android.support.design.widget.FloatingActionButton
+            app:srcCompat="@drawable/ic_add"
+            android:id="@+id/floating_button_add_custom_dictionary"
+            android:layout_gravity="bottom|right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/default_margin"/>
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">LinguaMea</string>
+    <string name="home">Home</string>
+    <string name="dictionaries">Dictionaries</string>
+    <string name="main_dictionary">Main dictionary</string>
+    <string name="custom_dictionary">Custom</string>
+    <string name="main"> Main</string>
+    <string name="custom"> Custom</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="grammar">Grammar</string>
+    <string name="ic_attach_file">fdghfdga</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="word">Word</string>
+    <string name="translation">Translation</string>
+    <string name="Move_to">move to</string>
+    <string name="share">Share</string>
+    <string name="learned">Change learned status</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="move_to">Move to</string>
+    <string name="word_hint">Enter a word</string>
+    <string name="word_editor">Word:</string>
+    <string name="translation_editor">Translation:</string>
+    <string name="translation_hint">Enter a translation</string>
+    <string name="uuid_text_view">UUID</string>
+    <string name="learned_check_box">I know this word</string>
+    <string name="done_button">Done</string>
+    <string name="empty_word_field">Word field is empty</string>
+    <string name="word_saved">Word has been saved</string>
+    <string name="learned_popup_menu_forgot">Forgot</string>
+    <string name="learned_popup_menu_know">Learned</string>
+    <string name="word_deleted">Word has been deleted</string>
+    <string name="oi_dictionary"> Favorite</string>
+    <string name="font_fontFamily_medium">sans-serif</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value"/>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="selected">selected</string>
+    <string name="more_info_about_this">Information</string>
+    <string name="item_deleted">item deleted</string>
+    <string name="learned_status">Learned status has been changed</string>
+    <string name="forms">Forms</string>
+    <string name="detail_translation_title"><u>Translation: </u></string>
+    <string name="undo">UNDO</string>
+    <string name="removed_from_device">Ward has been deleted</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
